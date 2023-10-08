@@ -3,11 +3,21 @@
    <h3>Frontend Developer💻</h1>
 </div>
 
+<div align='center'>
+  <img src="https://media1.giphy.com/media/xUA7b4arnbo3THfzi0/giphy.gif?cid=ecf05e472l9hve03khlzet1f9926p08p0wb5j57rr9zph21e&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+</div>
+
 ### About me
 
 - 📝 I'm fond of developing interfaces and all the time working on improving my code
 - 📄 Here is my [CV](cv-link)
 - 🌍 I love learning languages, my English is B2-C1. Willng to know Japanese
+
+### My hobbies
+
+- 🎲 Board and video games lover
+- 🍛 Watching Anime
+- 🌍 Teaching English and being able to give someone a hand
 
 <h3 align="center">Contact me</h3>
 <div align="center">
@@ -20,9 +30,13 @@
   <a href="https://t.me/griffela">
     <img src="https://img.shields.io/badge/Telegram-e7c6ff?style=for-the-badge&logo=telegram&logoColor=003459" alt="Telegram"/>
   </a>
+  <a href="https://t.me/griffela">
+    <img src="https://img.shields.io/badge/Discord-e7c6ff?style=for-the-badge&logo=discord&logoColor=003459" alt="Discord"/>
+  </a>
 </div>
 
 ### My Technologies
+
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
@@ -36,4 +50,3 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
 </div>
-
